@@ -1,6 +1,6 @@
 {
   "name": "@tamu-dor/mui-daterange-picker-plus",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "declaration": true,
   "outDir": "./",
   "include": [
